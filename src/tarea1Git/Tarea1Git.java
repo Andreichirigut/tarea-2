@@ -10,5 +10,7 @@ package tarea1Git;
  * @author Chiri
  */
 public class Tarea1Git {
-    
+    public static void main(String[] args) {
+        System.out.println("Aplicación de Andrei Chirigut");
+    }
 }
